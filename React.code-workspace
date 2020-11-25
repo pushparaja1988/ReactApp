@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../POV/Micro Fe/Micro frontend demo"
+		},
+		{
+			"path": "../../codeQuality/demoLint"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
